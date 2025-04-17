@@ -1,0 +1,41 @@
+# Critical Device Identification Properties
+ro.product.brand=realme
+ro.product.manufacturer=realme
+ro.product.model=RMX3782
+ro.product.name=RMX3782
+ro.product.device=RE5C6CL1
+ro.build.product=RMX3782
+ro.product.board=k6835v1_64
+
+# Hardware Specifications
+ro.hardware=mt6835
+ro.board.platform=mt6835
+ro.soc.model=MT6835
+ro.soc.manufacturer=Mediatek
+ro.opengles.version=196610
+
+# Build Information
+ro.build.description=sys_mssi_64_cn_armv82-user 15 AP3A.240617.008 1742956668654 release-keys
+ro.build.fingerprint=realme/RMX3782/RE5C6CL1:15/AP3A.240617.008/T.R4T2.1d298ea-181ed-43750:user/release-keys
+ro.build.version.sdk=35
+ro.build.version.release=15
+ro.build.version.security_patch=2025-03-01
+
+# Display Properties
+ro.sf.lcd_density=480
+ro.display.brightness.normal_max_brightness=3262
+ro.display.screenhole.positon=502,25:578,101
+
+# Partition Information
+ro.boot.dynamic_partitions=true
+ro.boot.slot_suffix=_b
+ro.virtual_ab.enabled=true
+
+# Recommended Additional Properties
+ro.secure=1
+ro.debuggable=0
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.build.type=user
+ro.build.tags=release-keys
+
